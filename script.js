@@ -62,9 +62,9 @@ if (profCard) barObserver.observe(profCard);
 const roleEl = document.querySelector('.hero-role');
 if (roleEl) {
   const roles = [
-    '<b>Full Stack Developer</b> &nbsp;Â·&nbsp; MERN Stack &nbsp;Â·&nbsp; DTU \'26',
-    '<b>React.js Developer</b> &nbsp;Â·&nbsp; Node.js &nbsp;Â·&nbsp; MongoDB',
-    '<b>Problem Solver</b> &nbsp;Â·&nbsp; LeetCode 100+ &nbsp;Â·&nbsp; GFG AIR 1,873'
+    '<b>Full Stack Developer</b> &nbsp;·&nbsp; MERN Stack &nbsp;·&nbsp; DTU \'26',
+    '<b>React.js Developer</b> &nbsp;·&nbsp; Node.js &nbsp;·&nbsp; MongoDB',
+    '<b>Problem Solver</b> &nbsp;·&nbsp; LeetCode 100+ &nbsp;·&nbsp; GFG AIR 1,873'
   ];
   let i = 0;
   setInterval(() => {
